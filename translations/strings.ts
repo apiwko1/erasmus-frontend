@@ -2,6 +2,7 @@ import { Strings } from './types'
 
 const strings: Strings = {
   en: {
+    Homepage: 'Homepage',
     ex_link: 'To develop your cognitive abilities, you can also do the exercises available on the website',
     visual_title: 'Thinking',
     auditory_title: 'Attention',
